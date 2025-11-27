@@ -18,4 +18,4 @@ git pull は、すでに clone 済みのローカルリポジトリを最新状�
 ・競合（コンフリクト）を避けるための事前更新
 
 以下のURLにプロジェクトを公開した：
-https://github.com/ユーザー名/git-sample-project
+https://github.com/yutoyamiyami-wq/git-sample-project
