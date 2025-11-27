@@ -4,7 +4,7 @@ Git Sample Project
 Author: 富岡優友
 
 git clone は、リモートリポジトリを初めて自分のPCにコピー（複製）するためのコマンド
-使用例：git clone https://github.com/yutoyamiyami-wq/sample-project.git
+使用例：git clone https://github.com/yutoyamiyami-wq/sample-project
 使用される状況
 ・新しくプロジェクトに参加したとき
 ・別のPCで同じプロジェクトを作業したいとき
